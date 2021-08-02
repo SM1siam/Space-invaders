@@ -1,2 +1,3 @@
 # Space-invaders
-Unzip the assests and keep it in the same folder\
+just download the zip 
+install python and pygame and have fun
